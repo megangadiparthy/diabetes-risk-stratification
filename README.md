@@ -312,14 +312,6 @@ This is an academic project, but feedback and suggestions are welcome!
 4. Push to branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Megan Gadiparthy**
